@@ -1,0 +1,6 @@
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: 201 - created status code
+
+note over browser:
+Javascript creates new note in the browser.
+end note
